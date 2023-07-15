@@ -1,0 +1,59 @@
+[
+    {
+        "Id":1,
+        "Question": "1. Brass gets discoloured in air because of the presence of which of the following gases in air?",
+        "Options": [
+            "Oxygen",
+            "Hydrogen sulphide",
+            "Carbon dioxide",
+            "Nitrogen"
+        ],
+        "correctAns":1
+    },
+    {
+        "Id":2,
+        "Question": "2. Which of the following is a non metal that remains liquid at room temperature?",
+        "Options": [
+            "Phosphorous",
+            "Bromine",
+            "Chlorine",
+            "Helium"
+        ],
+        "correctAns":1
+    },
+    {
+        "Id":3,
+        "Question": "3. Chlorophyll is a naturally occurring chelate compound in which central metal is",
+        "Options": [
+            "Copper",
+            "Magnesium",
+            "Iron",
+            "Calcium"
+        ],
+        "correctAns":1
+    },
+    {
+        "Id":4,
+        "Question": "4. Which of the following is used in pencils?",
+        "Options": [
+            "Graphite",
+            "Silicon",
+            "Charcoal",
+            "Nitrogen"
+        ],
+        "correctAns":0
+    },
+    {
+        "Id":5,
+        "Question": "5. Which of the following metals forms an amalgam with other metals?",
+        "Options": [
+            "Tin",
+            "Mercury",
+            "Lead",
+            "Zinc"
+        ],
+        "correctAns":1
+    }
+    
+]
+

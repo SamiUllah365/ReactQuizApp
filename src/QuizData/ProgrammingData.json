@@ -1,0 +1,58 @@
+[
+    {
+        "Id":1,
+        "Question": "1. The default value will be consider in switch statement when",
+        "Options": [
+            "1. Multiple cases are right",
+            "2. No case is right",
+            "3. Single case is right",
+            "4. All cases are right"
+        ],
+        "correctAns":2
+    },
+    {
+        "Id":2,
+        "Question": "2. One of the bad program style is",
+        "Options": [
+            "1. Consistent use of Names in functions",
+            "2. Cohesive functions",
+            "3. Using constant macros",
+            "4. Using too many decision structures"
+        ],
+        "correctAns":3
+    },
+    {
+        "Id":3,
+        "Question": "3. When the list of data of some length having special value at the end for loop termination is given then the loop kind is called",
+        "Options": [
+            "1. Counter-controlled loop",
+            "2. Sentinel-controlled loop",
+            "3. End-filed controlled loop",
+            "4. General conditional loop"
+        ],
+        "correctAns":1
+    },
+    {
+        "Id":4,
+        "Question": "4. In C language, when the ratio of loop repetition is unknown then the",
+        "Options": [
+            "1. While loop is used",
+            "2. For loop",
+            "3. Do-while loop is used",
+            "4. Nested for loop is used"
+        ],
+        "correctAns":0
+    },
+    {
+        "Id":5,
+        "Question": "5. Numbers in R are generally treated as _______ precision real numbers.",
+        "Options": [
+            "1. Double",
+            "2. Real",
+            "3. Imaginary",
+            "4. Single"
+        ],
+        "correctAns":0
+    }
+]
+
